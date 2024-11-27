@@ -18,7 +18,3 @@ import matplotlib.pyplot as plt
 
 
 #This is the sample file
-
-
-
-Now I am changing this file
